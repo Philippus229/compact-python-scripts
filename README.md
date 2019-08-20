@@ -9,5 +9,5 @@ Incomplete 3D line rasterization rendered Minecraft clone
 ### Controls
 - WASD: Move
 - Arrow Keys: Rotate camera
-#### v2
+#### v2 (5 lines/2722 characters)
 - E: Place blocks
