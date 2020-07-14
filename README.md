@@ -1,5 +1,5 @@
-# Compact Python Scripts
-Very compact Python scripts I wrote for no particular reason
+# <i>Compact</i> Python Scripts
+Very <i>compact</i> Python scripts I wrote for no particular reason
 
 ## mandelbrot_tiny.py (5 lines/463 characters)
 Mandelbrot/Julia set fractal visualization script (replace the value(s) for c in line 4 (first argument of get_pixel) for julia sets)
